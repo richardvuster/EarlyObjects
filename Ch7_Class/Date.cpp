@@ -57,3 +57,11 @@ int main(){
     std::cin.get();
     return 0;
 }
+
+/*
+Problems: with the default date, printOneWay() with default values Month, Day, Year (1, 1, 2001) should be printing out 1/1/01. 
+          How can i add the 01 at the end if I am using mod to get the last two digits of the year. 
+
+          - also need to add exception and error handling: what if a user enters in 13 for the month. 
+
+*/

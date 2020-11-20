@@ -36,4 +36,5 @@ int main(){
 /*
 Problems:
     - setw() not working in ostream 
+    - have to figure out print formatters 
 */
