@@ -1,5 +1,3 @@
-#remove stuff
-Ch7_Class/*/a.out
 # Prerequisites
 *.d
 
@@ -32,4 +30,3 @@ Ch7_Class/*/a.out
 *.exe
 *.out
 *.app
-

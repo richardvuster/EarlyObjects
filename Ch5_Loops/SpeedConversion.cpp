@@ -10,7 +10,7 @@ void print(std::vector<double> &s, int m){
   std::vector<double>::const_iterator c1;
  
   for(c1 = s.begin(); c1 != s.end(), m <= 120; c1++, m+=10){
-      std::cout << m << " kph\t\t == \t\t" << *c1 << " mph.\n";
+      std::cout << m << " kph\t\t == \t\t" << *c1 << " mph\n";
   }  
 
 }

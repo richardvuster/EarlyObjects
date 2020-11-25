@@ -19,7 +19,6 @@
         "vector": "cpp",
         "exception": "cpp",
         "algorithm": "cpp",
-        "iterator": "cpp",
         "memory": "cpp",
         "memory_resource": "cpp",
         "optional": "cpp",
@@ -41,9 +40,6 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp",
-        "functional": "cpp",
-        "numeric": "cpp",
-        "random": "cpp"
+        "typeinfo": "cpp"
     }
 }
